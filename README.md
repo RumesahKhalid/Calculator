@@ -39,10 +39,4 @@ This is a simple calculator program written in Python that allows users to perfo
 - **Reset ($):** Reset the calculator for a new set of calculations.
 - **History (?):** View past calculations.
 
-## History
-
-The calculator keeps track of previous calculations. You can view the calculation history by choosing the '?' option from the menu.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+https://calculator-psi-five-24.vercel.app/
