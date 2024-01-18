@@ -1,12 +1,10 @@
 # Simple Calculator
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Usage](#usage)
-- [Supported Operations](#supported-operations)
-- [History](#history)
-- [License](#license)
+- [Introduction]
+- [Features]
+- [Usage]
+- [Supported Operations]
 
 ## Introduction
 
